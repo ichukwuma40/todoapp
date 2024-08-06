@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82184741112",
+    "project_id": "beta-tasks-by5ung",
+    "storage_bucket": "beta-tasks-by5ung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82184741112:android:fc9e4259ed3bf1c0431b0d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.betaTasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2peVykOMBgrsagR-uEMUaPSL3euTeRyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
